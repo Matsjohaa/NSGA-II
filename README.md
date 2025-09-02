@@ -16,7 +16,8 @@ where
 $$
 g(x) = 1 + \frac{9}{n-1} \sum_{i=2}^n x_i
 $$
-	•	Pareto front:
+
+Pareto front:
 
 $$
 { (f_1, f_2) \mid f_1 \in [0,1], ; f_2 = 1 - \sqrt{f_1} }
